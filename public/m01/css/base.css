@@ -1,4 +1,6 @@
-
+body, .mui-content {
+    background: #FFF;
+}
 
 .my-header{
     background-color: #006699;
